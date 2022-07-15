@@ -34,7 +34,7 @@ const Siderbar = (props) => {
           </NavLink>
         </Menu.Item>
         <Menu.Item key="category">
-          <NavLink className={'text-decoration-none'} to="/category/list">
+          <NavLink className={'text-decoration-none'} to="/BloodGroup">
             <UnorderedListOutlined />
             <span>Nhóm máu</span>
           </NavLink>

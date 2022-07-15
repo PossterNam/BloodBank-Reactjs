@@ -1,6 +1,6 @@
 import { Menu } from "antd";
 import { MailOutlined, AppstoreOutlined, SettingOutlined } from "@ant-design/icons";
-const Header = () => {
+const Nav = () => {
   return (
     <div>
       <div className="header d-flex justify-content-center">
@@ -21,4 +21,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Nav;
